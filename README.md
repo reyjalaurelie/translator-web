@@ -1,33 +1,20 @@
 # Translator  #
 
-The purpose of this script is to give the official name of all the countries using the translation key provided as a parameter.
+The purpose of this web application is to give the official name of all the countries using the translation key provided in the input.
 The country objects are stored in a JSON file.
 
 
 
 ## Prerequisites
 
-Check that you have node in your terminal.
-
-```bash
-node -v 
-```
+ an internet connexion
 
 ## Running the tests
 
-```bash
-node main.js // add a translation key provided as a parameter
-```
+Enter a the country key in the input of the form.
 
-for example:
+The output should returne:
 
-```bash
-node main.js cym
-```
-
-should return:
-
-```
 Gweriniaeth Angola
 Gweriniaeth Albania
 Tywysogaeth Andorra
