@@ -7,7 +7,7 @@ The country objects are stored in a JSON file.
 
 ## Prerequisites
 
- an internet connexion
+Clone the repository and run index.html
 
 ## Running the tests
 
@@ -15,14 +15,11 @@ Enter a the country key in the input of the form.
 
 The output should returne:
 
-Gweriniaeth Angola
-Gweriniaeth Albania
-Tywysogaeth Andorra
-Gweriniaeth yr Ariannin
+Gweriniaeth Angola  
+Gweriniaeth Albania  
+Tywysogaeth Andorra  
+Gweriniaeth yr Ariannin  
 ...
-```
-
-
 
 ## Authors
 
